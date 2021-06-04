@@ -1,5 +1,27 @@
 # @keystone-next/fields
 
+## 10.1.0
+
+### Minor Changes
+
+- [#5854](https://github.com/keystonejs/keystone/pull/5854) [`7eabb4dee`](https://github.com/keystonejs/keystone/commit/7eabb4dee2552f7baf1e0024d82011b179d418d4) Thanks [@rohan-deshpande](https://github.com/rohan-deshpande)! - Added Keystone Cloud integration capabilities for images.
+
+  Replaced the types `FileMode` and `ImageMode` with `AssetMode`.
+
+### Patch Changes
+
+- [#5857](https://github.com/keystonejs/keystone/pull/5857) [`881c9ffb7`](https://github.com/keystonejs/keystone/commit/881c9ffb7c5941e9fb214ed955148d8ea567e65f) Thanks [@bladey](https://github.com/bladey)! - Fixed image not displaying when rendered in card format.
+
+* [#5852](https://github.com/keystonejs/keystone/pull/5852) [`ef14e77ce`](https://github.com/keystonejs/keystone/commit/ef14e77cebc9420db8c7d29dfe61f02140f4a705) Thanks [@gwyneplaine](https://github.com/gwyneplaine)! - Fixed labels in `image` and `file` fields to be more screen reader friendly.
+
+* Updated dependencies [[`7eabb4dee`](https://github.com/keystonejs/keystone/commit/7eabb4dee2552f7baf1e0024d82011b179d418d4), [`8958704ec`](https://github.com/keystonejs/keystone/commit/8958704ec9819cd27ad1cae251628ad38dad1c79)]:
+  - @keystone-next/keystone@19.1.0
+  - @keystone-next/types@20.0.0
+  - @keystone-next/utils-legacy@11.1.0
+  - @keystone-ui/core@3.1.0
+  - @keystone-next/admin-ui-utils@5.0.2
+  - @keystone-next/adapter-prisma-legacy@8.0.1
+
 ## 10.0.0
 
 ### Major Changes

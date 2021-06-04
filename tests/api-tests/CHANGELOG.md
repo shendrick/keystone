@@ -1,5 +1,14 @@
 # @keystonejs/api-tests
 
+## 11.0.2
+
+### Patch Changes
+
+- Updated dependencies [[`7eabb4dee`](https://github.com/keystonejs/keystone/commit/7eabb4dee2552f7baf1e0024d82011b179d418d4)]:
+  - @keystone-next/types@20.0.0
+  - @keystone-next/utils-legacy@11.1.0
+  - @keystone-next/test-utils-legacy@20.0.1
+
 ## 11.0.1
 
 ### Patch Changes

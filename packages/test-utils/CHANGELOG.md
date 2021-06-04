@@ -1,5 +1,13 @@
 # @keystonejs/test-utils
 
+## 20.0.1
+
+### Patch Changes
+
+- Updated dependencies [[`7eabb4dee`](https://github.com/keystonejs/keystone/commit/7eabb4dee2552f7baf1e0024d82011b179d418d4)]:
+  - @keystone-next/keystone@19.1.0
+  - @keystone-next/adapter-prisma-legacy@8.0.1
+
 ## 20.0.0
 
 ### Major Changes

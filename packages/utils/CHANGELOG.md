@@ -1,5 +1,18 @@
 # @keystonejs/utils
 
+## 11.1.0
+
+### Minor Changes
+
+- [#5854](https://github.com/keystonejs/keystone/pull/5854) [`7eabb4dee`](https://github.com/keystonejs/keystone/commit/7eabb4dee2552f7baf1e0024d82011b179d418d4) Thanks [@rohan-deshpande](https://github.com/rohan-deshpande)! - Added Keystone Cloud integration capabilities for images.
+
+  Replaced the types `FileMode` and `ImageMode` with `AssetMode`.
+
+### Patch Changes
+
+- Updated dependencies [[`7eabb4dee`](https://github.com/keystonejs/keystone/commit/7eabb4dee2552f7baf1e0024d82011b179d418d4)]:
+  - @keystone-next/types@20.0.0
+
 ## 11.0.1
 
 ### Patch Changes
